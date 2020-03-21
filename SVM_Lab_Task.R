@@ -1,4 +1,4 @@
-# The code has been colleated from https://www.edureka.co/blog/support-vector-machine-in-r/
+
 ## SVM lab task
 
 # for this Lab task Kernlab library has been used. Kernlab library has more kernals than e1701.
